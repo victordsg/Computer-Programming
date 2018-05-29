@@ -23,7 +23,7 @@ import VGCWindow.ViewWindow;
  */
 public class VGC {
     public static void main(String[] args) {
-      //LoginWindow lw = new LoginWindow();
+      
       LoginWindow vw = new LoginWindow();
         
     } 
