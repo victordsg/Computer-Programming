@@ -17,7 +17,10 @@ import MenuBar.upFaculty;
 import MenuBar.upStudent;
 import VGCWindow.ViewWindow;
 
-
+/**
+ *
+ * @author Victor Amorim 17633 
+ */
 public class VGC {
     public static void main(String[] args) {
       //LoginWindow lw = new LoginWindow();
